@@ -49,9 +49,9 @@ Este perfil documenta minha transição e evolução para a área de **Ciência 
 ## 📊 Estatísticas de atividades
 
 <div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=jsnpereira-datascience&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=jsnpereira-datascience&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=jsnpereira-datascience&theme=tokyonight&hide_border=true" />
+<img height="220" src="https://github-stats-extended.vercel.app/api?username=jsnpereira-datascience&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> 
+<br />
+<img height="220" src="https://github-stats-extended.vercel.app/api/top-langs?username=jsnpereira-datascience&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<br/>
+<img height="220" src="https://streak-stats.demolab.com?user=jsnpereira-datascience&theme=tokyonight&hide_border=true" />
 </div>
