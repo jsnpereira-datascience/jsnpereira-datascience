@@ -17,7 +17,7 @@
 
 Sou **Engenheiro/Analista de QA** com mais de 10 anos de experiência em automação de testes para aplicações **web, APIs e microsserviços**.
 
-Além da automação, atuo e estudo **desenvolvimento backend em Java com Spring**, o que me permite entender a aplicação de ponta a ponta — da regra de negócio ao teste.
+Além da automação, atuo e estudo **desenvolvimento backend em Java com Spring**, o que me permite entender a aplicação de ponta a ponta da regra de negócio ao teste.
 
 **Stack principal:** Java · Spring · Selenium · Rest Assured · TestNG · Cucumber · CI/CD
 
