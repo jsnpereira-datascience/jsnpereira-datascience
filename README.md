@@ -37,11 +37,21 @@ Este perfil documenta minha transição e evolução para a área de **Ciência 
 <h4>Stack</h4>
 
 <p>
-  <img src="./.assets/icons/python.svg"  witdh=45 height=45>
-   <img src="./.assets/icons/pandas.svg"  witdh=45 height=45>
-   <img src="./.assets/icons/numpy.svg"  witdh=45 height=45>
-   <img src="./.assets/icons/seaborn.svg"  witdh=45 height=45>
-   <img src="./.assets/icons/vscode.svg"  witdh=45 height=45>
+  <img src="./.assets/icons/python.svg" width=45 height=45>
+  <img src="./.assets/icons/pandas.svg" width=45 height=45>
+  <img src="./.assets/icons/numpy.svg" width=45 height=45>
+  <img src="./.assets/icons/seaborn.svg" width=45 height=45>
+  <img src="./.assets/icons/vscode.svg" width=45 height=45>
 </p>
 
 <a href="https://www.tech-stack-icons.com/"> Tech Stack Icons</a>
+
+## 📊 Estatísticas de atividades
+
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=jsnpereira-datascience&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=jsnpereira-datascience&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=jsnpereira-datascience&theme=tokyonight&hide_border=true" />
+</div>
